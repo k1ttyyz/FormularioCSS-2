@@ -1,0 +1,35 @@
+body{
+    background-color: #bce1ab;
+}
+.formulario{
+    display: flex;
+    flex-direction: column;
+    background-color: #bce1ab;
+}
+
+input{
+    width: 30%;
+    height: 30px;
+    border-left: rgb(5, 72, 20);
+    border-top: rgb(5, 72, 20) ;
+    border-right: rgb(5, 72, 20) ;
+    background-color: white;
+}
+
+.cadastroo{
+    text-decoration: none;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 50;
+}
+
+article div{
+    padding: 50px;
+}
+
+.inputs{
+    width: 30%;
+    height: 30px;
+  
+    text-decoration: none;
+}
